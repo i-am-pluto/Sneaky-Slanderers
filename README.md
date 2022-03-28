@@ -11,7 +11,7 @@ The COVID-19 pandemic has forced teaching to be moved to the online mode. Digita
 Equipped with a profanity filter to prevent offensive words and graphics to be displayed to students and teachers. 
 The solution seems to be commercialy viable, since it can be used both as a product and a service. The solution also has a huge market since it involves a previously untapped domain. The solution seems to be practically implementable as well from the current technology and involves browser extensions, a centralized database, an application and a backend to provide the services. 
 
-# Use Case Diagramn
+# Use Case Diagram
 
 ![](./er3.png)
 
