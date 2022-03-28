@@ -22,7 +22,7 @@ The solution seems to be commercialy viable, since it can be used both as a prod
 
 # Gateway
 
-![](./i3.mp4)
+![](./i3.gif)
 VERIFIED
 ![](./i4.jpeg)
 VERIFICATION FAILED
