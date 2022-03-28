@@ -17,8 +17,8 @@ The solution seems to be commercialy viable, since it can be used both as a prod
 
 # Browser Extensions
 
-!()
-!()
+![](./i1.png)
+![](./i2.jpeg)
 
 # Gateway
 
