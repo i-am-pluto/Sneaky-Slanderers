@@ -23,9 +23,8 @@ The solution seems to be commercialy viable, since it can be used both as a prod
 # Gateway
 
 ![](./i3.gif)
-\n
-VERIFIED
+
+- VERIFIED
 ![](./i4.jpeg)
-\n
-VERIFICATION FAILED
+- VERIFICATION FAILED
 ![](./i5.jpeg)
