@@ -1,0 +1,3 @@
+Consists of an extension and an application that identifies users on the basis of their IP addresses and flags
+them in case of mismatch. Includes a profanity filter for offensive language. Developed as a part of the Smart
+India Hackathon 2022.
